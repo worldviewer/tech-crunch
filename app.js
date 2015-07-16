@@ -56,7 +56,7 @@ app.use(session({
 	// Required option: This is the secret used to sign the 
 	// session ID cookie
 	// secret: sessionSecret,
-    secret: sessionSecret,
+    secret: '054ee27637667c7969ed512eb8ac5d02',
 
 	// Forces the session to be saved back to the session 
 	// store, even if the session was never modified during 
